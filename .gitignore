@@ -1,3 +1,5 @@
 Google_cloud/.terraform
+Google_cloud/terraform.tfvars
 acceso.txt
 aws/terraform.tfvars
+aws/.terraform
